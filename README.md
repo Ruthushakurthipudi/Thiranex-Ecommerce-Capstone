@@ -7,7 +7,7 @@ A modern, responsive e-commerce product catalog developed as part of the **Thira
 
 ## 🌐 Live Demo
 
-👉 (
+👉 (https://ruthushakurthipudi.github.io/Thiranex-Ecommerce-Capstone/)
 
 ---
 
